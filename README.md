@@ -9,6 +9,7 @@ A python script that convert *.vasp generated from VESTA (File > export data > *
 How to use:
 
 from vasp_xyz import *
+
 vasp_to_xyz('unit_cell.vasp')
 
 source: https://github.com/compchem-cybertraining/Tutorials_CP2K/tree/master/0_structure_preparation/3_BA2_PbI4
